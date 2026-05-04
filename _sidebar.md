@@ -1,0 +1,5 @@
+* [Home](README.md)
+* [About Me](about.md)
+* [Voice Acting Portfolio](projects.md)
+* [Socials](socials.md)
+* [Credits](https://instagram.com)

@@ -1,19 +1,41 @@
-# 👋 About Me: Zeo Neyo
+<img src="banner.png" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
 
-Welcome to my professional wiki! This is where I keep all my project details and info.
+About me: Zeo Neyo
 
-## 🚀 What I Do
-- **Coding:** Building sleek, professional wikis.
-- **Design:** Creating custom backgrounds and layouts.
-- **Learning:** Currently mastering VS Code and GitHub.
+> Welcome to my professional wiki! This is my central hub for project details, skill tracking, and design layouts.
 
-## 🛠️ My Skills
+---
 
-| Skill | Level |
-| :--- | :--- |
-| HTML/CSS | Learning |
-| Docsify | Intermediate |
-| GitHub | Getting Started |
+ What I Do
+- Demi-God | Blah blah blah.
+-  Zeo| Lore stuff maybe.
+- Neyo | More lore maybey.
+
+---
+
+ My Skills {docsify-ignore}
+> [!ATTENTION]
+> this guy  
+> smh 
+> I care about him but holy
+
+---
 
 > [!TIP]
-> Keep an eye on the **Timeline** page for live updates on what I'm working on!
+> blah blah maybe something here!
+
+<style>
+  .content {
+    background: rgba(42, 37, 68, 0.92);
+    padding: 40px !important; /* Extra work for this guy smh */
+    border-radius: 12px;
+    color: #edecae; /*Small text*/
+    line-height: 1.6; /* Breathing room between lines */
+  }
+
+  .content h1, .content h2, .content h3 {
+    color: #efebb8; /* Pale Gold */
+    border-bottom: 1px solid rgba(27, 9, 98, 0.2);
+    padding-bottom: 10px;
+  }
+</style>
